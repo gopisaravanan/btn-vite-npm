@@ -1,10 +1,10 @@
 {
   "name": "btn-vite-npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "exports": {
     ".": {
-      "types": "./dist/main.d.ts",
+      "types": "./dist/lib/main.d.ts",
       "default": "./dist/my-lib.js"
     }
   },
